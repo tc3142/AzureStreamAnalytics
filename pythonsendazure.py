@@ -35,8 +35,8 @@ from datetime import datetime
 # In[19]:
 
 
-connection_str= 'Endpoint=sb://stockfeeddatademo-poc.servicebus.windows.net/;SharedAccessKeyName=RootUserAccessPolicy;SharedAccessKey=lv1Vf0Cujp3USX4a3HxVxf5gUPpGE/iPkOcs8ToE43E=;EntityPath=pythonfeeddata-poc'
-eventhub_name='pythonfeeddata-poc'
+connection_str= 'the connection str foryour event hub here '
+eventhub_name='youreventhubnamespacehere'
 
 
 # In[20]:
