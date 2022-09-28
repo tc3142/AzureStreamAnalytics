@@ -36,7 +36,7 @@ from datetime import datetime
 
 
 connection_str= 'the connection str foryour event hub here '
-eventhub_name='youreventhubnamespacehere'
+eventhub_name='youreventhubnamehere'
 
 
 # In[20]:
